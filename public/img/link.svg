@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="11px" viewBox="0 0 18 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Portfolio-Theme-Project-768" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-373.000000, -1116.000000)">
+        <g id="Project-content" transform="translate(70.000000, 360.000000)" fill="#8C8C8C" fill-rule="nonzero">
+            <g id="Group" transform="translate(300.000000, 440.000000)">
+                <g id="link" transform="translate(0.000000, 304.000000)">
+                    <g id="link-variant" transform="translate(0.000000, 5.000000)">
+                        <path d="M15.6,7 L12.9,7 L12.9,8.74166667 L15.6,8.74166667 C17.634,8.74166667 19.29,10.4191667 19.29,12.5 C19.29,13.496772 18.9012333,14.4527188 18.209224,15.157543 C17.5172148,15.8623672 16.5786488,16.2583333 15.6,16.2583333 L12.9,16.2583333 L12.9,18 L15.6,18 C18.5823376,18 21,15.5375661 21,12.5 C21,9.45666667 18.579,7 15.6,7 Z M4.71,12.5 C4.71,10.4191667 6.366,8.74166667 8.4,8.74166667 L11.1,8.74166667 L11.1,7 L8.4,7 C5.41766235,7 3,9.46243388 3,12.5 C3,15.5375661 5.41766235,18 8.4,18 L11.1,18 L11.1,16.2583333 L8.4,16.2583333 C6.366,16.2583333 4.71,14.5716667 4.71,12.5 Z M8.4,13.4166667 L15.6,13.4166667 L15.6,11.5833333 L8.4,11.5833333 L8.4,13.4166667 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

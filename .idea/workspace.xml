@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a2278a8-d389-42d9-8568-cae439a8da6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            <state relative-caret-position="15">
+              <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -279,18 +278,18 @@
       <workItem from="1561219378364" duration="409000" />
       <workItem from="1561221744223" duration="24029000" />
       <workItem from="1561316894461" duration="27000" />
-      <workItem from="1561374253910" duration="207000" />
+      <workItem from="1561374253910" duration="808000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129199000" />
+    <option name="totallyTimeSpent" value="129800000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="27" width="1920" height="1029" extended-state="6" />
+    <frame x="1920" y="27" width="1920" height="1029" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4984472" visible="true" weight="0.30149412" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4984472" visible="true" weight="0.30149412" />
       <window_info id="Structure" order="1" sideWeight="0.5015528" side_tool="true" weight="0.25506938" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -303,7 +302,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4967983" visible="true" weight="0.2812846" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.4967983" visible="true" weight="0.2812846" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5032017" side_tool="true" visible="true" weight="0.2812846" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -589,8 +588,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        <state relative-caret-position="15">
+          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
         </state>
       </provider>
     </entry>

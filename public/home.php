@@ -1,4 +1,3 @@
-
 <main class="home">
     <?php include_once 'home/welcome.htm'; ?>
     <?php include_once 'home/portfolio.htm'; ?>

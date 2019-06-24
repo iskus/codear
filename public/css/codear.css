@@ -97,6 +97,14 @@ h1, h2, h3, h4, h5, h6{
     min-width: 100%;
     min-height: 100%;
 }
+.promo {
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 9999999;
+    border: 1px dashed gold;
+    display: none;
+}
 
 /* Add some content at the bottom of the video/page */
 .content {

@@ -35,3 +35,8 @@ setInterval(function () {
         schit.attr('class', 'schit animated bounceInDown');
     }, 9000);
 }, 10000);
+
+
+setTimeout(function () {
+    $('.promo').addClass( 'animated bounceInUp').show();
+}, 2000);

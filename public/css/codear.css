@@ -33,6 +33,7 @@ div.schit {
     position: fixed;
     right: 10px;
     bottom: 20px;
+    display: none;
     /*top: 10px;*/
     /*left: 50%;*/
     /*margin-left: -350px;*/

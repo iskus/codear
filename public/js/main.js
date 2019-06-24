@@ -22,7 +22,7 @@
         } else {
             animateNames.push(str);
         }
-    })
+    });
 
     var lastScrollTop = 0;
 
@@ -130,7 +130,8 @@
         taga.addClass('header__nav-link text--uppercase');
         console.log(taga);
         taga.addClass('animated ' + tmpName);
-    }, function () {});
+    }, function () {
+    });
 
     // setInterval(function () {
     //     let logoimg = $(".header__logo img");

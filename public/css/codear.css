@@ -1,0 +1,125 @@
+.btn:hover {
+    background-color: #ffe000;
+    color: #000000;
+    border-color: #0b0b0b;
+  /**  box-shadow: 0px 0px 10px white; */
+}
+.btn , input{
+    border-color: #ffe000;
+    border-radius: 10px;
+}
+/*a {*/
+/*    color: #000 !important;*/
+/*    text-shadow: 1px 1px 0px #373000;*/
+/*}*/
+a:hover, a:active {
+    color: #ffe000 !important;
+    text-shadow: 1px 1px 0px #000;
+}
+div.background {
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: inherit;
+    position: absolute;
+    /*background-image: url(../img/b01.png);*/
+    /*opacity: 0.2;*/
+}
+div.schit {
+    background-image: url(../img/schit1.gif);
+    width: 450px;
+    height: 450px;
+    position: fixed;
+    right: 10px;
+    bottom: 20px;
+    /*top: 10px;*/
+    /*left: 50%;*/
+    /*margin-left: -350px;*/
+    z-index: 2;
+}
+body {
+    /*background-image: url(../img/kirpich.png);*/
+    position: relative;
+}
+header p, footer p, input {
+    color: #fffd64 !important;
+    /*background-image: url(../img/kirpich.png) !important;*/
+    /*z-index: 1;*/
+}
+.header__nav {
+    background-image: url(../img/roads.png) !important;
+    opacity: 0.95 !important;
+
+}
+
+input, textarea {
+    opacity: 0.65 !important;
+    border: 1px solid #ffe000 !important;
+}
+.header__nav-link {
+
+}
+.header__logo {
+    margin-top: 70px;
+}
+
+.header__logo img:hover {
+
+}
+
+header {
+    border-bottom: 1px dashed #ffe000 !important;
+}
+
+footer {
+    /*background-image: url("../img/cardio.png")!important;*/
+}
+
+section {
+
+}
+p {
+    color: chartreuse !important;
+}
+div, span {
+    color: #ffe000;
+}
+h1, h2, h3, h4, h5, h6{
+    color: #00a0ff;
+    text-shadow: 2px 2px 0px black, 0px 0px 13px #00a0ff;
+}
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+/* Add some content at the bottom of the video/page */
+.content {
+    position: fixed;
+    padding: 20px;
+    margin-left: -350px;
+    left: 50%;
+    bottom: 10px;
+    z-index: 2;
+}
+
+/* Style the button used to pause/play the video */
+/*#myBtn {*/
+/*    width: 200px;*/
+/*    font-size: 18px;*/
+/*    padding: 10px;*/
+/*    border: none;*/
+/*    background: #000;*/
+/*    color: #fff;*/
+/*    cursor: pointer;*/
+/*}*/
+
+/*#myBtn:hover {*/
+/*    background: #ddd;*/
+/*    color: black;*/
+/*}*/
